@@ -22,3 +22,7 @@ it has a accuracy of 98.33%
 
 and at the same time the logistic regression model used for a comparison has a score of 96.66
 which uses a sigmoid function
+
+
+# Future Scope
+introduce a basic streamlit app that would be based on slider to input data and give the prediction on the flower
